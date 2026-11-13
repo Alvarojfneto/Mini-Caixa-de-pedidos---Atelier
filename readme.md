@@ -1,6 +1,6 @@
 # 🛒 Mini Caixa de Pedidos (PDV) — Tai Atelier
 
-> Projeto desenvolvido como parte do meu processo de transição de carreira para a T.I. e estudos práticos em desenvolvimento Full Stack, aplicando JavaScript puro (Vanilla JS), HTML5 e CSS3.
+> Projeto desenvolvido como parte do meu processo de transição de carreira para a T.I. e estudos práticos em desenvolvimento Full Stack, aplicando JavaScript puro , HTML5 e CSS3.
 
 ---
 
